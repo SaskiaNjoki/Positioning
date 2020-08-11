@@ -1,0 +1,140 @@
+body{
+background-color: #ccc;
+font-family: arial;
+color: #222;
+text-align: center;
+}
+h1{
+ background-color: #555755;
+ color: #fff;
+ padding: 25px;
+ text-align: center;
+}
+
+.content{
+
+width: 500px;
+min-height: 500px;
+background-color: #c9b74f;
+margin:56px auto 0 auto;
+padding: 20px;
+
+position:relative;
+
+
+}
+.content h1{
+ padding: 0px 0 0 0;
+ margin: 0px;
+}
+.content p{
+ padding: 0px;
+ margin: 0px;
+}
+.content .random{
+ width: 150px;
+ height: 150px;
+ background-color: #064a18;
+ position:absolute;
+ top:-50px;
+ right: -100px;
+ border-radius: 50%;
+}
+ .content .hero{
+ width: 150px;
+ height: 150px;
+ background-color:#a1123d ;
+ position:absolute;
+ top:-50px;
+ left:-100px;
+ border-radius: 50%; 
+ 
+}
+.content .cont{
+width: 150px;
+ height: 150px;
+ background-color:#48588c;
+ position:absolute;
+ bottom:-50px;
+ left:-100px;
+ border-radius: 50%; 
+}
+.content .conte{
+width: 150px;
+ height: 150px;
+ background-color:#7f12a1 ;
+ position:absolute;
+ bottom:-50px;
+ right:-100px;
+ border-radius: 50%; 
+}
+body{
+background-color: #ccc;
+font-family: arial;
+color: #222;
+text-align: center;
+}
+h1{
+ background-color: #555755;
+ color: #fff;
+ padding: 25px;
+ text-align: center;
+}
+
+.content{
+
+width: 500px;
+min-height: 500px;
+background-color: black;
+margin:56px auto 0 auto;
+padding: 20px;
+
+position:relative;
+
+
+}
+.content h1{
+ padding: 0px 0 0 0;
+ margin: 0px;
+}
+.content p{
+ padding: 0px;
+ margin: 0px;
+}
+.content .circle1{
+ width: 150px;
+ height: 150px;
+ background-color: grey;
+ position:absolute;
+ top:-50px;
+ right: -100px;
+ border-radius: 50%;
+}
+ .content .circle2{
+ width: 150px;
+ height: 150px;
+ background-color: green;
+ position:absolute;
+ top:-50px;
+ left:-100px;
+ border-radius: 50%; 
+ 
+}
+.content .circle3{
+width: 150px;
+ height: 150px;
+ background-color: grey;
+ position:absolute;
+ bottom:-50px;
+ left:-100px;
+ border-radius: 50%; 
+}
+.content .circle4{
+width: 150px;
+ height: 150px;
+ background-color:green ;
+ position:absolute;
+ bottom:-50px;
+ right:-100px;
+ border-radius: 50%; 
+}
